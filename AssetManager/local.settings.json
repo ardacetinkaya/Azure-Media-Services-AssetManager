@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "MediaServiceAPI": "",
+    "MediaServiceAzureADTenant": "",
+    "MediaServiceClientId": "",
+    "MediaServiceClientSecret": "",
+    "MediaServiceStorageConnectionString": "",
+    "EventGridTopicHost": "",
+    "EventGridTopicKey": "",
+    "WebhookURL": "",
+    "WebhookAccessKey": "",
+    "SQLConnectionString": "",
+    "AzureWebJobsStorage": "",
+    "AzureWebJobsDashboard": ""
+  }
+}
